@@ -14,7 +14,7 @@ In the project directory, you can run:
 Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-You can view the deployed site at [https://fiis-codecademy-shop.netlify.app/](https://fiis-codecademy-shop.netlify.app/).
+You can view the deployed site at [https://augustine-ok-codecademy-shop.netlify.app/](https://augustine-ok-codecademy-shop.netlify.app/).
 
 ## Table of Contents
 * [Technologies Used](#technologies-used)
